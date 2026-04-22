@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="assets/Aether - banner.png" width="800">
+</p>
+
 # Aether
 
 Aether is a real-time gravitational N-body simulation built with Python and Pygame. It simulates orbital motion, collisions, and dynamic celestial systems using Newtonian gravity, with a focus on stability, interactivity, and visual clarity.
