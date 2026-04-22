@@ -4,7 +4,6 @@ Aether is a real-time gravitational N-body simulation built with Python and Pyga
 
 The project is designed as an experimental physics sandbox where users can explore how planetary systems evolve over time.
 
----
 
 ## Physics
 
@@ -12,11 +11,12 @@ Aether computes motion entirely from physics. Every object influences every othe
 
 This allows the simulation to behave like a small evolving universe rather than a scripted animation.
 
----
 
 ## Features
 
 Aether includes a time scaling system that allows the simulation to be sped up or slowed down.
+
+---
 
 This enables:
 
@@ -31,6 +31,8 @@ This enables:
 
 Users can dynamically add new objects into the simulation:
 
+---
+
 - Planets (normal mass bodies)  
 - Stars (high-mass gravitational anchors)  
 - Black holes and white holes (extreme gravity, high attraction radius)  
@@ -44,6 +46,8 @@ This is not the most physically perfect system, but it is designed to be stable 
 
 When two bodies collide:
 
+---
+
 - They merge into a single object  
 - Mass is combined  
 - Momentum is conserved (based on velocity vectors)  
@@ -52,6 +56,8 @@ When two bodies collide:
 ---
 
 ## Controls
+
+---
 
 - Mouse drag → Move camera  
 - Scroll → Zoom in/out  
@@ -69,15 +75,23 @@ When two bodies collide:
 Currently, there are two modes:
 
 ### Sandbox Mode
+
+---
+
 A free simulation mode where you can:
 - Watch the solar system evolve  
 - Add custom bodies  
 - Observe energy changes and numerical drift  
 
+---
+
 ### Real Orbit Mode
 Uses NASA-based orbital data (Horizon system) to approximate real planetary positions.
 
 You can:
+
+---
+
 - View realistic solar system orbits  
 - Travel through time using the time system  
 - Compare real orbital data with simulated physics  
