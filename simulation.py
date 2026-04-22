@@ -366,9 +366,8 @@ def run_simulation(screen):
                 continue
             F = G * planet["mass"] * other["mass"] / r ** 2
 
-            # if either body is a white hole, repel at close range
             if planet.get("type") == "white hole" or other.get("type") == "white hole":
-                repel_dist = 2e10  # ~0.13 AU, adjust to taste
+                repel_dist = 2e10 
                 if r < repel_dist:
                     fx -= F * dx / r
                     fy -= F * dy / r
@@ -791,8 +790,6 @@ def run_simulation(screen):
                         dy = p2["position"][1] - p1["position"][1]
                         r_real = math.sqrt(dx * dx + dy * dy)
 
-                        # physical collision radius: pixels converted to meters via zoom/scale
-                        # use current zoom so collision matches what you see on screen
                         r1_phys = p1["radius"] * 1e8
                         r2_phys = p2["radius"] * 1e8
 
