@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="assets/Aether - banner.png" width="800">
+  <img src="Assets/Aether - banner.png" width="800">
 </p>
 
 # Aether
