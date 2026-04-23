@@ -103,10 +103,9 @@ You can:
 
 ---
 
+## Note
 
 ---
-
-## Note
 
 This project is not intended to be a perfect astrophysical simulator.
 
