@@ -98,8 +98,11 @@ You can:
 ---
 
 - View realistic solar system orbits  
-- Travel through time using the time system  
+- Travel through time using the time machine
 - Compare real orbital data with simulated physics  
+
+---
+
 
 ---
 
@@ -109,6 +112,6 @@ This project is not intended to be a perfect astrophysical simulator.
 
 It is an educational and experimental physics sandbox built for learning, experimentation, and visual exploration of gravity systems.
 
-and it's also just a simplr project in python, so have fun !
+and it's also just a simple project in python, so have fun !
 
 ---
