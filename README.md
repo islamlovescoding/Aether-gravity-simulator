@@ -94,7 +94,7 @@ A free simulation mode where you can:
 - Observe energy changes and numerical drift  
 
 
-![Pixel Anchor Demo](Assets/adding planets.gif)
+![Pixel Anchor Demo](Assets/adding_planets.gif)
 
 
 ---
@@ -111,7 +111,7 @@ You can:
 - Compare real orbital data with simulated physics  
 
 
-![Pixel Anchor Demo](Assets/time machine.gif)
+![Pixel Anchor Demo](Assets/time_machine.gif)
 
 
 ---
