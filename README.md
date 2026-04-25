@@ -9,6 +9,11 @@ Aether is a real-time gravitational N-body simulation built with Python and Pyga
 
 The project is designed as an experimental physics sandbox where users can explore how planetary systems evolve over time.
 
+---
+
+![Pixel Anchor Demo](Assets/solar.gif)
+
+---
 
 ## Physics
 
@@ -88,6 +93,10 @@ A free simulation mode where you can:
 - Add custom bodies  
 - Observe energy changes and numerical drift  
 
+
+![Pixel Anchor Demo](Assets/adding planets.gif)
+
+
 ---
 
 ### Real Orbit Mode
@@ -100,6 +109,10 @@ You can:
 - View realistic solar system orbits  
 - Travel through time using the time machine
 - Compare real orbital data with simulated physics  
+
+
+![Pixel Anchor Demo](Assets/time machine.gif)
+
 
 ---
 
